@@ -1,3 +1,3 @@
-public class Arrays(part1) {
+public class Arrays1 {
     
 }
